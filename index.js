@@ -1,4 +1,4 @@
-import { getGreeting } from './getGreetings.js'
+import { getGreeting } from './getGreeting.js'
 import { replaceName } from './replaceName.js'
 
 console.log('ding')
