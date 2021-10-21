@@ -1,6 +1,10 @@
 import { getGreeting } from './getGreeting.js'
 import { replaceName } from './replaceName.js'
+/* import { getFullNames } from '.people.js'
 
-console.log('ding')
-console.log(replaceName('Hello Jane', 'Jane', 'John'))
-console.log(replaceName('Jane', 'Jane', 'John'))
+function getFullNames(people) {
+  return people.map(person => `person.firstname + person.lastname`)
+} */
+
+console.log('abc')
+console.log('5678oabivhadv')
